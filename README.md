@@ -1,5 +1,7 @@
 # Thanks json.sh author a lot 
+# Also thanks 4679 , get idea from him and some code →_→
 https://github.com/dominictarr/JSON.sh
+https://github.com/4679/serverchan-scripts
 # My linux router with poor command to resolve json data from Internet.
 # json.sh can format the json data like below
 # ["name"]  "JSON.sh"
