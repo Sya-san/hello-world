@@ -1,10 +1,10 @@
-Thanks json.sh author a lot 
-My linux router with poor command to resolve json data from Internet.
-json.sh can format the json data like below
-["name"]  "JSON.sh"
-["version"]  "0.0.0"
-["description"]  ""
-["homepage"]  "http://github.com/dominictarr/JSON.sh"
+# Thanks json.sh author a lot 
+# My linux router with poor command to resolve json data from Internet.
+# json.sh can format the json data like below
+# ["name"]  "JSON.sh"
+# ["version"]  "0.0.0"
+# ["description"]  ""
+# ["homepage"]  "http://github.com/dominictarr/JSON.sh"
 #  ... etc
 easily to reading and get values.
 
