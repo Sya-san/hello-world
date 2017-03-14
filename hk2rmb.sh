@@ -9,7 +9,7 @@ if [ $1 == "hk2rmb" ] ; then
       today=$(./json.sh < packet.json | awk 'NR==6{print $2}' )   
       content5="
 
-##今天每100港币兑换
+##今天每1元港币兑换
 ##$today 人民币
 ##数据仅供参考，实际汇率以银行柜台展示为准
 "
